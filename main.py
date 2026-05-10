@@ -32,7 +32,7 @@ def main():
     print("hello workd")
     result = agent.invoke({"messages":HumanMessage(content="what is the weather in tokyo")})
     print(result)
-
-
+ 
+# i'll become so good that everyone will see me
 if __name__ == "__main__":
     main()
